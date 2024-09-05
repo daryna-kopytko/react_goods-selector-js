@@ -58,7 +58,7 @@ export const App = () => {
                     </button>
                   ) : (
                     <button
-                      data-cy="AddDButton"
+                      data-cy="AddButton"
                       type="button"
                       className="button"
                       onClick={() => {
